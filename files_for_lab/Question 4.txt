@@ -1,0 +1,32 @@
+Measurements:
+
+'Customer Lifetime Value'
+'Income'
+'Monthly Premium Auto'
+'Months Since Last Claim'
+'Months Since Policy Inception'
+'Number of Open Complaints'
+'Number of Policies'
+'Total Claim Amount'
+
+Dimensions:
+
+'Customer'
+'State' 
+'Response' 
+'Coverage'
+'Education'
+'Effective To Date'
+'EmploymentStatus'
+'Gender'
+'Location Code',
+'Marital Status'
+'Policy Type'
+'Policy'
+'Renew Offer Type'
+'Sales Channel'
+'Vehicle Class'
+'Vehicle Size'
+
+They are the same as the ones in the Pandas dataframe,
+in terms of numerical and categorical columns.
